@@ -10,3 +10,15 @@ C:\Users\e_kun\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.Co
 C:\Users\e_kun\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.exe
 C:\Users\e_kun\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
 C:\Users\e_kun\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.MainForm.resources
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csprojAssemblyReference.cache
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.MainForm.resources
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.dll
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.pdb
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete

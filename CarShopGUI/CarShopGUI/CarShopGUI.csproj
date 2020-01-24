@@ -80,8 +80,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CarClassLibrary - Copie\CarClassLibrary\CarClassLibrary.csproj">
-      <Project>{8b284bf7-0da7-4991-b159-2dd6069bcf44}</Project>
+    <ProjectReference Include="..\..\..\..\..\..\Users\e_kun\source\repos\CarClassLibrary - Copie\CarClassLibrary\CarClassLibrary.csproj">
+      <Project>{7fcf9b60-2300-41ac-bbaf-d0c3756fc53b}</Project>
       <Name>CarClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
