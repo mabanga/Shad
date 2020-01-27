@@ -19,6 +19,6 @@ C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
 C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe.config
 C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe
 C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.pdb
-C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.dll
-C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.pdb
 C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarLibrary.dll
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarShopGUI\bin\Debug\CarLibrary.pdb

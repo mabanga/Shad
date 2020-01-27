@@ -1,0 +1,8 @@
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\bin\Debug\netstandard2.0\CarLibrary.deps.json
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\bin\Debug\netstandard2.0\CarLibrary.dll
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\bin\Debug\netstandard2.0\CarLibrary.pdb
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\obj\Debug\netstandard2.0\CarLibrary.csprojAssemblyReference.cache
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\obj\Debug\netstandard2.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\obj\Debug\netstandard2.0\CarLibrary.AssemblyInfo.cs
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\obj\Debug\netstandard2.0\CarLibrary.dll
+C:\Res\Studies\CSharp\ShadSluiter\CarShopGUI\CarLibrary\obj\Debug\netstandard2.0\CarLibrary.pdb
